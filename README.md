@@ -8,6 +8,7 @@ Currently visualises the dijkstra algorithm as well as the a * algorithm using t
 ### Setup
 
 To setup you will need to install python pygame
+
 https://www.pygame.org/wiki/GettingStarted
 
 ### Running
