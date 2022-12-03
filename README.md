@@ -1,10 +1,10 @@
-## pathfinding-visualizer
+# pathfinding-visualizer
 
 WORK IN PROGRESS
 
-Currently visualises the dijkstra algorithm as well as the a * algorithm
+Currently visualises the dijkstra algorithm as well as the a * algorithm using the pygame module
 
-# USAGE
+## USAGE
 
 **Setup**
 
@@ -12,4 +12,4 @@ To setup you will need to install python pygame
 
 **Running**
 
-`python visualizer`
+`python visualiser.py`
