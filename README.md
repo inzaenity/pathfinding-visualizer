@@ -1,8 +1,8 @@
 # pathfinding-visualizer
 
 ## abstract
-Aiming to be able to visualise a multitude of pathfinding algorithms and compare the time taken
-Currently visualises the dijkstra algorithm as well as the a * algorithm using the pygame module
+Aiming to be able to visualise a multitude of pathfinding algorithms and compare the time taken.
+Currently visualises the dijkstra algorithm as well as the a * algorithm using the pygame module.
 ## USAGE
 
 ### Setup
